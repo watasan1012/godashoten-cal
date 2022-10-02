@@ -64,6 +64,9 @@ XXXXXXXXXXXXXX@gmail.com
 
 ⑥ カレンダーに予定を登録する
 
+カレンダーより作成をクリックしてください
+
+<img width="257" alt="スクリーンショット 2022-10-02 20 07 26" src="https://user-images.githubusercontent.com/103015617/193451147-24aec1a9-67de-461c-b36f-f468da44b759.png">
 
 
 
