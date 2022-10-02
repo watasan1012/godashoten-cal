@@ -37,7 +37,7 @@ XXXXXXXXXXXXXX@gmail.com
 
 再度、② の処理を行なってください。
 
-
+③ 
 
 
 
