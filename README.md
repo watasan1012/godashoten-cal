@@ -49,8 +49,9 @@ XXXXXXXXXXXXXX@gmail.com
 
 ④ カレンダーを起動する
 
+画面右上にある 九個の点をクリックします。
 
-
+<img width="275" alt="スクリーンショット 2022-10-02 19 52 30" src="https://user-images.githubusercontent.com/103015617/193450405-850c835c-6dd6-4d1c-bc10-3fe2997b9547.png">
 
 
 
