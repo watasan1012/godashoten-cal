@@ -51,7 +51,11 @@ XXXXXXXXXXXXXX@gmail.com
 
 画面右上にある 九個の点をクリックします。
 
-<img width="275" alt="スクリーンショット 2022-10-02 19 52 30" src="https://user-images.githubusercontent.com/103015617/193450405-850c835c-6dd6-4d1c-bc10-3fe2997b9547.png">
+<img width="275" alt="スクリーンショット 2022-10-02 19 52 30" src="https://user-images.githubusercontent.com/103015617/193450519-25a185ff-074a-4cc6-af99-981dd9600ed0.png">
+
+カレンダーをクリックします。
+
+⑤ 確認
 
 
 
