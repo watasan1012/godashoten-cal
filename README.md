@@ -82,13 +82,8 @@ XXXXXXXXXXXXXX@gmail.com
 
 終日にチェックを入れます。
 
+<img width="493" alt="スクリーンショット 2022-10-02 20 35 24" src="https://user-images.githubusercontent.com/103015617/193451936-a86258c7-f05a-4260-9975-ce2e10c869fb.png">
 
-
-終了日を　指定します。
+終了日 を指定します。
 
 保存をクリックして完了です。
-
-<img width="487" alt="スクリーンショット 2022-10-02 20 22 13" src="https://user-images.githubusercontent.com/103015617/193451412-48c6e17f-1637-46be-a763-b441c3f24b0d.png">
-
-
-
