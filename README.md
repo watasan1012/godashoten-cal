@@ -37,7 +37,9 @@ XXXXXXXXXXXXXX@gmail.com
 
 再度、② の処理を行なってください。
 
-③ 
+③ パスワードを入力する
+
+![スクリーンショット 2022-10-02 19 44 52](https://user-images.githubusercontent.com/103015617/193450278-ca7a86d2-efc8-4bf1-8227-80925ab23baf.png)
 
 
 
