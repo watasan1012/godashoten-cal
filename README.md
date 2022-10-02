@@ -58,9 +58,12 @@ XXXXXXXXXXXXXX@gmail.com
 ⑤ 確認
 
 
+カレンダーが起動したら、godashotencal にチェックが入っていることを確認してください。
+
+<img width="1384" alt="スクリーンショット 2022-10-02 19 58 26" src="https://user-images.githubusercontent.com/103015617/193450651-08fb7496-6368-44f3-a3cd-6da9ff149afb.png">
 
 
-
+⑥ カレンダーに予定を登録する
 
 
 
