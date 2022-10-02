@@ -35,6 +35,8 @@ XXXXXXXXXXXXXX@gmail.com
 
 ログアウトをクリックします。
 
+再度、② の処理を行なってください。
+
 
 
 
