@@ -8,4 +8,5 @@
 # google アカウントにログインする
 
 下記URLをブラウザーから開く
-[https://accounts.google.com/signin/v2/identifier](https://accounts.google.com/signin/v2/identifier)
+
+[https://accounts.google.com/signin/v2/identifier](https://accounts.google.com/signin/v2/identifier)  
