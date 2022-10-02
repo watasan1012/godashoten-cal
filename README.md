@@ -86,4 +86,6 @@ XXXXXXXXXXXXXX@gmail.com
 
 終了日 を指定します。
 
+<img width="495" alt="スクリーンショット 2022-10-02 20 38 30" src="https://user-images.githubusercontent.com/103015617/193452096-357ba284-ed47-441c-abc2-e11d60e2db68.png">
+
 保存をクリックして完了です。
