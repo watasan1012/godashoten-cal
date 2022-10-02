@@ -7,7 +7,7 @@
 
 # google アカウントにログインする
 
-下記URLをブラウザーから開く
+① 下記URLをブラウザーから開く
 
 [https://accounts.google.com/signin/v2/identifier](https://accounts.google.com/signin/v2/identifier)  
 
@@ -28,12 +28,11 @@ XXXXXXXXXXXXXX@gmail.com
 
 ログアウトするには、右上の　まるの中にあるユーザー名をクリックします。
 
-
 別のアカウントを追加
 
 ログアウトをクリックします。
 
-あ
+
 
 
 
