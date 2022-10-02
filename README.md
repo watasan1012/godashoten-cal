@@ -78,6 +78,8 @@ XXXXXXXXXXXXXX@gmail.com
 
 タイムゾーンをクリックして　開始日　を　指定します。終日にチェックを入れます。
 
+<img width="487" alt="スクリーンショット 2022-10-02 20 32 08" src="https://user-images.githubusercontent.com/103015617/193451829-e9cb1cfd-613d-420c-a198-290c1cb8d587.png">
+
 終了日を　指定します。
 
 保存をクリックして完了です。
