@@ -71,5 +71,15 @@ XXXXXXXXXXXXXX@gmail.com
 
 <img width="294" alt="スクリーンショット 2022-10-02 20 17 49" src="https://user-images.githubusercontent.com/103015617/193451261-ef5c10d6-dbe9-4f79-801a-531316109610.png">
 
+タイトルを追加　には 店舗名を入力してください。
+
+タイムゾーンをクリックして　開始日　を　指定します。終日にチェックを入れます。
+
+終了日を　指定します。
+
+保存をクリックして完了です。
+
+<img width="487" alt="スクリーンショット 2022-10-02 20 22 13" src="https://user-images.githubusercontent.com/103015617/193451412-48c6e17f-1637-46be-a763-b441c3f24b0d.png">
+
 
 
