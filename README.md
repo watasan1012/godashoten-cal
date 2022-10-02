@@ -45,7 +45,7 @@ XXXXXXXXXXXXXX@gmail.com
 
 パスワードを入力するに　指定のパスワードを入力して
 
-次へ ボタンをクリックする
+次へ ボタンをクリックする。
 
 ④ カレンダーを起動する
 
@@ -57,18 +57,19 @@ XXXXXXXXXXXXXX@gmail.com
 
 ⑤ 確認
 
-
 カレンダーが起動したら、godashotencal にチェックが入っていることを確認してください。
 
 <img width="1387" alt="スクリーンショット 2022-10-02 20 03 35" src="https://user-images.githubusercontent.com/103015617/193450848-e84837aa-2e9b-4f73-a588-9932864a45eb.png">
 
 ⑥ カレンダーに予定を登録する
 
-カレンダーより作成をクリックしてください
+カレンダーより作成をクリックしてください。
 
 <img width="257" alt="スクリーンショット 2022-10-02 20 07 26" src="https://user-images.githubusercontent.com/103015617/193451147-24aec1a9-67de-461c-b36f-f468da44b759.png">
 
+カレンダーより予定をクリックしてください。
 
+<img width="294" alt="スクリーンショット 2022-10-02 20 17 49" src="https://user-images.githubusercontent.com/103015617/193451261-ef5c10d6-dbe9-4f79-801a-531316109610.png">
 
 
 
