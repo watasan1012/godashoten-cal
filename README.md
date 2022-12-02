@@ -63,15 +63,15 @@ XXXXXXXXXXXXXX@gmail.com
 
 ⑥ カレンダーに予定を登録する
 
-カレンダーより作成をクリックしてください。
+カレンダーより画面上部左側メニューにある　＋作成▼ をクリックしてください。
 
 <img width="257" alt="スクリーンショット 2022-10-02 20 07 26" src="https://user-images.githubusercontent.com/103015617/193451147-24aec1a9-67de-461c-b36f-f468da44b759.png">
 
-カレンダーより予定をクリックしてください。
+一覧から、予定　をクリックしてください。
 
 <img width="294" alt="スクリーンショット 2022-10-02 20 17 49" src="https://user-images.githubusercontent.com/103015617/193451261-ef5c10d6-dbe9-4f79-801a-531316109610.png">
 
-タイトルを追加　には 店舗名を入力してください。
+タイトルを追加　には 店舗名　を入力してください。
 
 <img width="487" alt="スクリーンショット 2022-10-02 20 22 13" src="https://user-images.githubusercontent.com/103015617/193451702-da6d631c-0904-44be-a159-5906a84b70db.png">
 
@@ -80,7 +80,7 @@ XXXXXXXXXXXXXX@gmail.com
 
 <img width="487" alt="スクリーンショット 2022-10-02 20 32 08" src="https://user-images.githubusercontent.com/103015617/193451829-e9cb1cfd-613d-420c-a198-290c1cb8d587.png">
 
-終日にチェックを入れます。
+終日　にチェックを入れます。
 
 <img width="493" alt="スクリーンショット 2022-10-02 20 35 24" src="https://user-images.githubusercontent.com/103015617/193451936-a86258c7-f05a-4260-9975-ce2e10c869fb.png">
 
@@ -88,4 +88,4 @@ XXXXXXXXXXXXXX@gmail.com
 
 <img width="495" alt="スクリーンショット 2022-10-02 20 38 30" src="https://user-images.githubusercontent.com/103015617/193452096-357ba284-ed47-441c-abc2-e11d60e2db68.png">
 
-保存をクリックして完了です。
+保存　をクリックして完了です。
